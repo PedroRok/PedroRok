@@ -1,8 +1,8 @@
-<h3 align="center">I'm a new dev in this amazing dev world.</h3>
+<h2 align="center">I'm a new dev in this amazing dev world.</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rexblane" alt="rexblane" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexblane&label=Profile%20views&color=0e75b6&style=flat" alt="rexblane" /> </p>
 
-- 🤖 I’m currently working on **CR**, working with minecraft java development.
+- 🤖 I’m currently working on **CR**, working with Minecraft Java development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
