@@ -1,4 +1,6 @@
-<h2 align="center">I'm a new dev in this amazing dev world.</h2>
+<h2 align="center">Hi there, i'm Rok👋</h2>
+
+<h3>I'm a new dev in this amazing dev world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rexblane&label=Profile%20views&color=0e75b6&style=flat" alt="rexblane" /> </p>
 
