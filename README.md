@@ -1,7 +1,5 @@
 <h3 align="center">I'm a new dev in this amazing dev world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexblane&label=Profile%20views&color=0e75b6&style=flat" alt="rexblane" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rexblane" alt="rexblane" /></a> </p>
 
 - 🤖 I’m currently working on **CR**, working with minecraft java development.
