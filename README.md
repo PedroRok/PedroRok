@@ -2,7 +2,9 @@
 
 <h3>I'm a new dev in this amazing dev world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexblane&label=Profile%20views&color=0e75b6&style=flat" alt="rexblane" /> </p>
+<p align="left"> <a href="https://wakatime.com/@d7827dc4-ebb9-4e8b-9941-d7c602e4b639"><img src="https://wakatime.com/badge/user/d7827dc4-ebb9-4e8b-9941-d7c602e4b639.svg" alt="Total time coded since Apr 2 2021" /></a> <img src="https://komarev.com/ghpvc/?username=rexblane&label=Profile%20views&color=0e75b6&style=flat" alt="rexblane" /> </p>
+
+
 
 - 🤖 I’m currently working as **Minecraft Java developer** on **CR**.
 
