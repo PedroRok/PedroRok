@@ -7,7 +7,7 @@
 
 
 - 🤖 I’m currently working as **Minecraft Java developer**.
-- 🖊️ I'm a Computer Science student at UFES - Universidade Federal do Espirito Santo.
+- 🖊️ I'm a Computer Science student at **UFES** - *Universidade Federal do Espirito Santo*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
