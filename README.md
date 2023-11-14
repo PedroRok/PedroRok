@@ -14,6 +14,7 @@
   
   - Discord: `rokzin`
   - E-mail: [`pedrolucasnmm@gmail.com`](mailto:pedrolucasnmm@gmail.com)
+  - Site: [pedrorok.com](https://pedrorok.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
