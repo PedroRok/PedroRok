@@ -22,4 +22,4 @@
 
 | Wakatime | Github |
 | --- | --- |
-| [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rok&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/Rexblane) | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rexblane&theme=tokyonight&show_icons=true&locale=en&count_private=true" alt="rexblane" />
+| [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rok&show_icons=true&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/PedroRok) | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrorok&theme=tokyonight&show_icons=true&locale=en&count_private=true" alt="pedrorok" />
