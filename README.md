@@ -6,7 +6,7 @@
 
 
 
-- 🤖 I’m currently working as **Minecraft Java developer** for **AuthenticGames Productions**.
+- 🤖 I’m currently working as **Minecraft Java developer** and **CIO** at **BrPacks**.
 - 🖊️ I'm a Computer Science student at **UFES** - *Universidade Federal do Espirito Santo*.
 
 <h3 align="left">Connect with me:</h3>
