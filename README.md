@@ -5,7 +5,7 @@ Im a Java developer, and I'm passionate about technology and programming. <br>
 Love to learn new things and share knowledge with others.💙
 
 ### 🔥 About Me:
-- 🔭 I’m currently working at Enx Services as a System Analyst.
+- 🔭 I’m currently working at [Enx Services](https://github.com/enxservices) as a System Analyst.
 - 🌱 I'm a Computer Science student at UFES - Universidade Federal do Espirito Santo.
 
 <details>
