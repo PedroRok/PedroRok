@@ -6,7 +6,8 @@ Love to learn new things and share knowledge with others.💙
 
 ### 🔥 About Me:
 - 🔭 I’m currently working at [Enx Services](https://github.com/enxservices) as a System Analyst.
-- 🌱 I'm a Computer Science student at UFES - Universidade Federal do Espirito Santo.
+- 🌱 Computer Science student at UFES - Universidade Federal do Espirito Santo.
+- 🎮 Game development enthusiast.
 
 <details>
 <summary> 💻 Skills</summary>
@@ -15,7 +16,8 @@ Love to learn new things and share knowledge with others.💙
 *  Programming languages
 <p>
 <img alt="Java" src="https://img.shields.io/badge/java-%23151515.svg?style=for-the-badge&logo=openjdk&logoColor=red"/>
-<img alt="NextJS" src="https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c&logoColor=turquoise"/>
+<img alt="C" src="https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c&logoColor=turquoise"/>
+<img alt="C#" src="https://img.shields.io/badge/CS-151515?style=for-the-badge&logo=c#&logoColor=turquoise"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=blue"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=blue"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next%20js-151515?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
